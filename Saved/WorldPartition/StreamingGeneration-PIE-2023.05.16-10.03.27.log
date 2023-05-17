@@ -1,0 +1,9 @@
+Containers:
+  [+] MainContainer:
+   |            ID: 0x0000000000000000
+   |        Bounds: IsValid=true, Min=(X=-412.500 Y=-375.000 Z=-62.500), Max=(X=412.500 Y=375.000 Z=62.500)
+   |     Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+   |     Container: /Game/MyPlatformer/Maps/CharacterTestLevel
+   |  ActorDescs:
+   |      - Guid:580FB91F41883D9910F3CDA75830EFF4 Class:StaticMeshActor Name:StaticMeshActor_UAID_D85ED38871280F8301_1755459136 SpatiallyLoaded:true Bounds:IsValid=true, Min=(X=-412.500 Y=-375.000 Z=-62.500), Max=(X=412.500 Y=375.000 Z=62.500) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:true HLODRelevant:true FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
+   |      - Guid:F662104C438F2E15338C808696EDC74C Class:WorldDataLayers Name:WorldDataLayers SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:false HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
